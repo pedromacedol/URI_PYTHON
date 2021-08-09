@@ -1,0 +1,10 @@
+a, b, c = input().split()
+x = [int(a),int(b),int(c)]
+x.sort()
+print(x[0])
+print(x[1])
+print(x[2])
+print()
+print(a)
+print(b)
+print(c)
