@@ -1,0 +1,5 @@
+Nome = input()
+A = float(input())
+B = float(input())
+X = A+(B/100*15)
+print("TOTAL = R$ %.2f" %X)
